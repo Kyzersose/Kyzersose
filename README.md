@@ -35,8 +35,21 @@
 
 ## 🏅 Credentials
 
-- AWS Certified DevOps Engineer – Professional
+<div align="center">
+
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="110"></a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="110"></a>
+<a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification"><img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce" height="110"></a>
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" height="110"></a>
+
+[View all credentials on Credly](https://www.credly.com/users/matt-shaeffer/badges)
+
+</div>
+
+- AWS Certified Developer – Associate
+- AWS Certified Cloud Practitioner
 - CompTIA Security+
+- Microsoft Certified: Azure Fundamentals
 
 ## 🏡 Homelab
 
@@ -44,12 +57,12 @@ I run my own infrastructure at home: self-hosted Git, networking, and backup/DR 
 
 ## 📌 Featured projects
 
-<!-- Pin 4–6 repos on your profile. Suggested ideas to publish (sanitized, no client or government data):
-- A reusable GitLab CI / GitHub Actions pipeline template
-- A Terraform module for a secure AWS baseline
-- Homelab backup scripts (S3 offsite DR)
-- Your portfolio site source
--->
+| Project | What it is |
+| --- | --- |
+| [**jenkins**](https://github.com/Kyzersose/jenkins) | Dockerized Jenkins server with config-as-code (JCasC) and a plugin list, exposed through a Cloudflare tunnel from a Raspberry Pi. Built so I could finish a DevOps course without cloud costs. |
+| [**homelab**](https://github.com/Kyzersose/homelab) | The home infrastructure I use to test ideas before they go near a client: self-hosted Git, networking, and backup/DR experiments. |
+| [**theshaeffers.com**](https://github.com/Kyzersose/theshaeffers.com) | Source for my family's personal site. |
+| [**Starling Woodworking**](https://starlingwoodworking.com) | Website for a family-owned woodworking studio in Opelika, AL, building handcrafted furniture. |
 
 ## 📫 Let's talk
 
